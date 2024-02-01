@@ -1,0 +1,28 @@
+﻿body {
+    background-color:lightgoldenrodyellow;
+    color:darkblue;
+    margin:0;
+    padding:0;
+}
+.header{
+    background-color:deepskyblue;
+    color:lightcyan;
+    text-align:left;
+    padding:10px;
+}
+.main {
+    padding: 20px;
+}
+.footer{
+    background-color:deeppink;
+    color:lightcyan;
+    text-align:center;
+    padding:10px;
+    position:fixed;
+    bottom:0;
+    width:100%;
+}
+
+h1, h2 {
+    text-align: center;
+}
